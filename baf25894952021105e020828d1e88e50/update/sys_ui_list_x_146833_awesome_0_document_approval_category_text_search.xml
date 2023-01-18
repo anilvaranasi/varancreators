@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_146833_awesome_0_document_approval_category" version="2" view="text_search">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_146833_awesome_0_document_approval_category" element="NULL" name="x_146833_awesome_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7af258941a20211061b0ee0b1fb26b1e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:19</sys_created_on>
+            <sys_id>baf25894ff202110ffd94444324e901e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-18 04:38:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_146833_awesome_0_document_approval_category" element="NULL" name="x_146833_awesome_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7af258941a20211061b0ee0b1fb26b1e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:19</sys_created_on>
+            <sys_id>faf25894922021100542402ae4eccc1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-18 04:38:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>use_flow</element>
+            <list_id display_value="x_146833_awesome_0_document_approval_category" element="NULL" name="x_146833_awesome_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7af258941a20211061b0ee0b1fb26b1e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:19</sys_created_on>
+            <sys_id>f6f25894d0202110b75aa7523c72691e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-18 04:38:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_146833_awesome_0_document_approval_category" element="NULL" name="x_146833_awesome_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7af258941a20211061b0ee0b1fb26b1e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:19</sys_created_on>
+            <sys_id>36f2589463202110ebf733d21d4d761e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-18 04:38:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_146833_awesome_0_document_approval_category</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7af258941a20211061b0ee0b1fb26b1e</sys_id>
+            <sys_name>x_146833_awesome_0_document_approval_category</sys_name>
+            <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+            <sys_update_name>sys_ui_list_x_146833_awesome_0_document_approval_category_text_search</sys_update_name>
+            <sys_user/>
+            <view display_value="Text_search" name="text_search">0c029fc00a0a0b2c001aa3d4ed9f69e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

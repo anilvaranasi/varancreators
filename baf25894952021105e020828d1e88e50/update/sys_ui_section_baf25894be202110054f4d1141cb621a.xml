@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="baf25894be202110054f4d1141cb621a" sys_domain="global" table="x_146833_awesome_0_document_approval" version="3" view="portal">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:28</sys_created_on>
+            <sys_id>7af25894af202110056caaef9811db1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_146833_awesome_0_document_approval" sys_domain="global" view="b7ad1662a5300110c0a0e1db2cdc9528">baf25894be202110054f4d1141cb621a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-18 04:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_category</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:28</sys_created_on>
+            <sys_id>3ef25894cc202110a889256c3cc4de1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_146833_awesome_0_document_approval" sys_domain="global" view="b7ad1662a5300110c0a0e1db2cdc9528">baf25894be202110054f4d1141cb621a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-18 04:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:28</sys_created_on>
+            <sys_id>b6f2589443202110f3fe8e9bba1a691a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_146833_awesome_0_document_approval" sys_domain="global" view="b7ad1662a5300110c0a0e1db2cdc9528">baf25894be202110054f4d1141cb621a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-18 04:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_146833_awesome_0_document_approval</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-18 04:38:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>baf25894be202110054f4d1141cb621a</sys_id>
+            <sys_name>x_146833_awesome_0_document_approval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+            <sys_update_name>sys_ui_section_baf25894be202110054f4d1141cb621a</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Portal" name="portal">b7ad1662a5300110c0a0e1db2cdc9528</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

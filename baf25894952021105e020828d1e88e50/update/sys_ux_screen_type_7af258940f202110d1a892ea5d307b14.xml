@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>List</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:20</sys_created_on>
+        <sys_id>7af258940f202110d1a892ea5d307b14</sys_id>
+        <sys_name>List</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_screen_type_7af258940f202110d1a892ea5d307b14</sys_update_name>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=7af258940f202110d1a892ea5d307b14"/>
+</record_update>

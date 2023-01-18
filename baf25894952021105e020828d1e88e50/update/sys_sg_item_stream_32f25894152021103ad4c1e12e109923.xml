@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="di_document_pending_approvals">3ef25894e92021105fe9bb280d742e23</data_item>
+        <interleaved_field/>
+        <name>New Document Aprpovals Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:30</sys_created_on>
+        <sys_id>32f25894152021103ad4c1e12e109923</sys_id>
+        <sys_name>New Document Aprpovals Item Stream</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_item_stream_32f25894152021103ad4c1e12e109923</sys_update_name>
+        <table>x_146833_awesome_0_document_approver</table>
+    </sys_sg_item_stream>
+</record_update>

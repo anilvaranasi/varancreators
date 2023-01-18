@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to needs attention">b6f25894022021107ac8d48b0640d424</jump_to_screen>
+        <name>Needs Attention</name>
+        <report display_value="Needs Attention">76f25894d42021105b259fb62169882a</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:32</sys_created_on>
+        <sys_id>72f2589473202110364eaab3fd558824</sys_id>
+        <sys_name>Needs Attention</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_chart_72f2589473202110364eaab3fd558824</sys_update_name>
+        <title>Needs Attention</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

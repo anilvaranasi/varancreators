@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Document Approver">7af258940a202110be2e5b7eb1527518</applicability>
+        <order>0</order>
+        <screen display_value="Details default">bef25894442021103e7641b13f1e6a16</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:17</sys_created_on>
+        <sys_id>b6f25894fc2021100b4e28c7b70be917</sys_id>
+        <sys_name/>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_b6f25894fc2021100b4e28c7b70be917</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

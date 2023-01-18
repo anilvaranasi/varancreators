@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows/>
+        <name>Item Stream Segment</name>
+        <order>10</order>
+        <screen display_value="New Document Approvals">fef2589434202110df628d658677f122</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:31</sys_created_on>
+        <sys_id>bef258942f2021104b660439e5619821</sys_id>
+        <sys_name>Item Stream Segment</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_bef258942f2021104b660439e5619821</sys_update_name>
+    </sys_sg_item_stream_segment>
+</record_update>

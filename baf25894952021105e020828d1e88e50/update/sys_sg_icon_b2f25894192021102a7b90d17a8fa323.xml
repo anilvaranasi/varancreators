@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>New Document Aprpovals Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:24</sys_created_on>
+        <sys_id>b2f25894192021102a7b90d17a8fa323</sys_id>
+        <sys_name>New Document Aprpovals Icon</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_icon_b2f25894192021102a7b90d17a8fa323</sys_update_name>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

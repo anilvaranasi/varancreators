@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_workspace_header_ux_header_config">
+    <sys_ux_m2m_workspace_header_ux_header_config action="INSERT_OR_UPDATE">
+        <header_config display_value="Document Approval Workspace">72f25894bb202110a97ea4730f93240c</header_config>
+        <sys_class_name>sys_ux_m2m_workspace_header_ux_header_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:20</sys_created_on>
+        <sys_id>36f25894a02021104e32384ab1ca7e0b</sys_id>
+        <sys_name/>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_m2m_workspace_header_ux_header_config_36f25894a02021104e32384ab1ca7e0b</sys_update_name>
+        <workspace_form_header display_value="x_146833_awesome_0_document_approval_category">7ef2589495202110a759a266311b2f47</workspace_form_header>
+    </sys_ux_m2m_workspace_header_ux_header_config>
+</record_update>

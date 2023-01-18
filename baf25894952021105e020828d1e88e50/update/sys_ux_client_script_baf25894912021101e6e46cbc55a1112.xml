@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="document_all">3ef25894bd202110ba601ac5b57aad18</macroponent>
+        <name>Go to record page</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+     helpers.navigate.to("doc_view",{"sysId":event.payload.sysid});
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:26</sys_created_on>
+        <sys_id>baf25894912021101e6e46cbc55a1112</sys_id>
+        <sys_name>Go to record page</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_client_script_baf25894912021101e6e46cbc55a1112</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

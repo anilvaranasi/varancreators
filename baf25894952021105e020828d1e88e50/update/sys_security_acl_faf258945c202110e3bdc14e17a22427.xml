@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Allow read for records in sn_doc_approval_document_approver, if the ACL script returns true.</description>
+        <name>x_146833_awesome_0_document_approver</name>
+        <operation display_value="read">read</operation>
+        <script><![CDATA[answer = false;
+if(gs.hasRole('x_146833_awesome_0.admin') || (gs.hasRole('x_146833_awesome_0.approver') && current.approver == gs.getUserID()))
+	answer = true;]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:32</sys_created_on>
+        <sys_id>faf258945c202110e3bdc14e17a22427</sys_id>
+        <sys_name>x_146833_awesome_0_document_approver</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_security_acl_faf258945c202110e3bdc14e17a22427</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

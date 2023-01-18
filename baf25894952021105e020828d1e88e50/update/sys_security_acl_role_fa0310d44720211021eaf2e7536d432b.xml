@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:27</sys_created_on>
+        <sys_id>fa0310d44720211021eaf2e7536d432b</sys_id>
+        <sys_name>b6f258947d2021109807eb65eb8e4f27.snc_internal</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_security_acl display_value="b6f258947d2021109807eb65eb8e4f27">3af25894a8202110743f8d175f10f827</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fa0310d44720211021eaf2e7536d432b</sys_update_name>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>b9f294944720211021eaf2e7536d4382</transaction_id>
+    </sys_security_acl_role>
+</record_update>

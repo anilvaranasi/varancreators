@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#E3F4ED</color>
+        <display>background-color:#E3F4ED</display>
+        <name>#E3F4ED</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:25</sys_created_on>
+        <sys_id>faf25894442021105dbb3725f495e548</sys_id>
+        <sys_name>#E3F4ED</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_report_color_faf25894442021105dbb3725f495e548</sys_update_name>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Awesome Creators Workspace">baf2589488202110897a8699369c004f</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>36f2589400202110fc16d7dca6827b0a</sys_id>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_page_property_36f2589400202110fc16d7dca6827b0a</sys_update_name>
+        <type>string</type>
+        <unique_name>x_146833_awesome_0.baf2589488202110897a8699369c004f.root.globalSearchDataConfigId</unique_name>
+        <value>3af25894ea202110dd70a43fd5d23c4c</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=36f2589400202110fc16d7dca6827b0a"/>
+</record_update>

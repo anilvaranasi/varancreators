@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_highlighted_value_config">
+    <sys_ux_highlighted_value_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Document Approvals</name>
+        <sys_class_name>sys_ux_highlighted_value_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:32</sys_created_on>
+        <sys_id>bef25894be2021100e34df26ce685b0b</sys_id>
+        <sys_name>Document Approvals</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_highlighted_value_config_bef25894be2021100e34df26ce685b0b</sys_update_name>
+    </sys_ux_highlighted_value_config>
+</record_update>

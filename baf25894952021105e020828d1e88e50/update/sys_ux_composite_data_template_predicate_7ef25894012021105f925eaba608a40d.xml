@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_146833_awesome_0_document_approval">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>name,number,approval_category,description,status,submitter,work_notes,active</field_list>
+        <name>Document Approval Search Config</name>
+        <order>50</order>
+        <predicate_bundle display_value="Document Approval Search Bundle">b6f25894242021100b8efa23b0b7ab0e</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:25</sys_created_on>
+        <sys_id>7ef25894012021105f925eaba608a40d</sys_id>
+        <sys_name>Document Approval Search Config</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_7ef25894012021105f925eaba608a40d</sys_update_name>
+        <table>x_146833_awesome_0_document_approval</table>
+        <ux_template display_value="doc-approval-search-result-template">bef258942120211027e83be8608d280d</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

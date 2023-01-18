@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:34</sys_created_on>
+        <sys_id>bef25894ef2021105108765f57146326</sys_id>
+        <sys_name>x_146833_awesome_0_document_approval_category.x_146833_awesome_0.approver</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_security_acl display_value="x_146833_awesome_0_document_approval_category">f6f25894b1202110988a088ef09b2327</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bef25894ef2021105108765f57146326</sys_update_name>
+        <sys_user_role display_value="x_146833_awesome_0.approver" name="x_146833_awesome_0.approver">fef258941820211055a3ae061c7f174f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

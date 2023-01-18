@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <card_size/>
+        <charts>72f2589473202110364eaab3fd558824,bef25894fc2021102672278492d63223,fef25894d7202110b7a4c70459f1d923</charts>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <row_count/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:23</sys_created_on>
+        <sys_id>76f25894642021100ef64e1efad04225</sys_id>
+        <sys_name>Document Approvals</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_chart_section_76f25894642021100ef64e1efad04225</sys_update_name>
+        <table/>
+        <title>Document Approvals</title>
+        <type>single_score</type>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_chart_section>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Awesome Creators Workspace">baf2589488202110897a8699369c004f</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6f258945c20211014d1b914fbe0a00a</sys_id>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_page_property_f6f258945c20211014d1b914fbe0a00a</sys_update_name>
+        <type>json</type>
+        <unique_name>x_146833_awesome_0.baf2589488202110897a8699369c004f.root.chrome_tab</unique_name>
+        <value>{&#13;
+  "contextual": [&#13;
+    "details"&#13;
+  ],&#13;
+  "maxMainTabLimit": 10,&#13;
+  "maxTotalSubTabLimit": 30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=f6f258945c20211014d1b914fbe0a00a"/>
+</record_update>

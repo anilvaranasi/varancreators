@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>number,name,submitter,description,approval_category,status,active,sys_created_on,sys_created_by,sys_updated_on,sys_updated_by,work_notes</field_list>
+        <name>document-view-config</name>
+        <order/>
+        <predicate_bundle display_value="document-approval-view-config-bundle">3af25894a2202110cb0eeaa7d040e30e</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:22</sys_created_on>
+        <sys_id>fef25894fb202110c130386af2ae810d</sys_id>
+        <sys_name>document-view-config</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_fef25894fb202110c130386af2ae810d</sys_update_name>
+        <table>x_146833_awesome_0_document_approval</table>
+        <ux_template display_value="doc-approval-view-all-template">72f25894c92021102bb3aa582376730e</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

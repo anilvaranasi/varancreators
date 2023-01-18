@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this year Item Stream">3ef2589409202110e4c9f9674529a122</item_stream>
+        <segment display_value="Item Stream Segment">fef2589486202110415c055ae224af21</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:24</sys_created_on>
+        <sys_id>76f25894052021103cf9a9015ed99722</sys_id>
+        <sys_name/>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_76f25894052021103cf9a9015ed99722</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

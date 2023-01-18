@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_chart_color_schemes">
+    <pa_chart_color_schemes action="INSERT_OR_UPDATE">
+        <color_1 display_value="#003B31">bef25894f62021108f6236624fb76648</color_1>
+        <color_10/>
+        <color_11/>
+        <color_12/>
+        <color_13/>
+        <color_14/>
+        <color_15/>
+        <color_16/>
+        <color_17/>
+        <color_18/>
+        <color_19/>
+        <color_2 display_value="#007A62">7af25894a32021104fa3daf56c95cb48</color_2>
+        <color_20/>
+        <color_21/>
+        <color_22/>
+        <color_23/>
+        <color_24/>
+        <color_25/>
+        <color_26/>
+        <color_27/>
+        <color_28/>
+        <color_29/>
+        <color_3 display_value="#81B5A1">fef258944a2021108d197ea579459348</color_3>
+        <color_30/>
+        <color_31/>
+        <color_32/>
+        <color_4 display_value="#E3F4ED">faf25894442021105dbb3725f495e548</color_4>
+        <color_5/>
+        <color_6/>
+        <color_7/>
+        <color_8/>
+        <color_9/>
+        <description>Document Approval Chart Color Scheme</description>
+        <name>Document Approval Chart Color Scheme</name>
+        <sys_class_name>pa_chart_color_schemes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>baf258947d202110e2b298469f24be48</sys_id>
+        <sys_name>Document Approval Chart Color Scheme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>pa_chart_color_schemes_baf258947d202110e2b298469f24be48</sys_update_name>
+    </pa_chart_color_schemes>
+    <sys_translated_text action="delete_multiple" query="documentkey=baf258947d202110e2b298469f24be48"/>
+</record_update>

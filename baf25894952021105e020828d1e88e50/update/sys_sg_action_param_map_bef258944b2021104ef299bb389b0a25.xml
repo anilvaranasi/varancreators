@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Approve document">32f258943c202110ee4758081e972426</button>
+        <item_parameter display_value="comments">3ef258945620211026e8aa7dcf249525</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:24</sys_created_on>
+        <sys_id>bef258944b2021104ef299bb389b0a25</sys_id>
+        <sys_name>3ef258945620211026e8aa7dcf249525</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_bef258944b2021104ef299bb389b0a25</sys_update_name>
+        <ui_parameter display_value="Reason for approving">36f2589441202110e419c2e74ec63d26</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

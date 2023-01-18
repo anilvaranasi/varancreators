@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="doc_submitted">fef2589407202110aac65aacac3a6b10</macroponent>
+        <name>Refresh Submit Button</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    let {
+        table,
+        sysId,
+        number
+    } = api.context.props;
+    if(table !== "sc_request"){
+        api.setState("successNumber",number);
+        api.setState("successSysId",sysId);
+    }else{
+        api.setState("requestSysId",sysId);
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:15</sys_created_on>
+        <sys_id>bef2589499202110bf39e6b72e714e10</sys_id>
+        <sys_name>Refresh Submit Button</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_client_script_bef2589499202110bf39e6b72e714e10</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_08_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:18</sys_created_on>
+        <sys_id>3af258946520211009033ee536ed7120</sys_id>
+        <sys_name>text_08_element</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3af258946520211009033ee536ed7120</sys_update_name>
+        <view_config display_value="Document Approvals View Config">36f258943a202110bed758855522f523</view_config>
+        <view_template_slot display_value="text_08">36f25894102021104e5930e99fb6da20</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

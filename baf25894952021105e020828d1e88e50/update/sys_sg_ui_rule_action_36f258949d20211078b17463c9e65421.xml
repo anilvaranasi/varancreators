@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:19</sys_created_on>
+        <sys_id>36f258949d20211078b17463c9e65421</sys_id>
+        <sys_name/>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_36f258949d20211078b17463c9e65421</sys_update_name>
+        <target>text_07</target>
+        <ui_rule display_value="Rejected state rules for document approvals - List View Config">76f25894c2202110362f196c8de98c21</ui_rule>
+        <value>{"TextDecorator": { "Type": "Font", "FontName": "now-mobile-icons-cards", "FontColor": "#975A4A", "Value": "e902"}}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

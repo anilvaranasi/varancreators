@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Portal App Config">3ef25894c6202110d970573407134e4f</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="document_record_display">faf258943820211080f899e9fc950015</parent_macroponent>
+        <parent_macroponent_composition_element_id>ckijothhjjddaaaaaaxddeiiabcceezpbblii</parent_macroponent_composition_element_id>
+        <route_type>attachments</route_type>
+        <screen_type display_value="Attachments">7ef258940420211037ca1bea89376515</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:28</sys_created_on>
+        <sys_id>3af2589447202110d576d9c00b1d6215</sys_id>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_app_route_3af2589447202110d576d9c00b1d6215</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=3af2589447202110d576d9c00b1d6215"/>
+</record_update>

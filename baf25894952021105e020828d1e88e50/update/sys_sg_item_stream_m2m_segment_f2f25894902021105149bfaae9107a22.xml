@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Needs Attention Item Stream">7ef25894032021103d002b5bee40c922</item_stream>
+        <segment display_value="Item Stream Segment">32f25894e12021103f63e1883974ef22</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:28</sys_created_on>
+        <sys_id>f2f25894902021105149bfaae9107a22</sys_id>
+        <sys_name/>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_f2f25894902021105149bfaae9107a22</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Awesome Creators Workspace">baf2589488202110897a8699369c004f</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>76f2189495202110b3c01e1a0db81ae4</sys_id>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_ux_page_property_76f2189495202110b3c01e1a0db81ae4</sys_update_name>
+        <type>string</type>
+        <unique_name>x_146833_awesome_0.baf2589488202110897a8699369c004f.root.listConfigId</unique_name>
+        <value>baf258943d202110f9aa58d5f2a4090b</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=76f2189495202110b3c01e1a0db81ae4"/>
+</record_update>

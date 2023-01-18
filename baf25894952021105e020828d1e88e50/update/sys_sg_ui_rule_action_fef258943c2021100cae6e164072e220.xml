@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 04:38:32</sys_created_on>
+        <sys_id>fef258943c2021100cae6e164072e220</sys_id>
+        <sys_name/>
+        <sys_package display_value="Awesome Creators" source="x_146833_awesome_0">baf25894952021105e020828d1e88e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awesome Creators">baf25894952021105e020828d1e88e50</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_fef258943c2021100cae6e164072e220</sys_update_name>
+        <target>viewgroup_01</target>
+        <ui_rule display_value="Approved state rules for document approvals - List View Config">f2f25894f3202110b4d9af623ec84f21</ui_rule>
+        <value>{"BackgroundColor":"#C9E0CA"}</value>
+    </sys_sg_ui_rule_action>
+</record_update>
